@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+nltk
+scikit-learn
+python-dotenv
+openai>=1.0.0

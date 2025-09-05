@@ -5,7 +5,7 @@ extracts key information, performs sentiment analysis, retrieves context from a 
 knowledge base (RAG), generates draft replies with an LLM (OpenAI optional), and presents
 everything on a clean dashboard.
 
-> Use this as your Coding Assessment Challenge submission. Just run locally and push this repo.
+> Coding Assessment Challenge submission. Just run locally and push this repo.
 
 ## 🎥 Demonstration Video - https://drive.google.com/file/d/1HxAPlf-mSovXnJ6U_XeUaxOVN0iSp-ge/view?usp=sharing
 

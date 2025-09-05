@@ -7,6 +7,8 @@ everything on a clean dashboard.
 
 > Use this as your Coding Assessment Challenge submission. Just run locally and push this repo.
 
+## 🎥 Demonstration Video - https://drive.google.com/file/d/1HxAPlf-mSovXnJ6U_XeUaxOVN0iSp-ge/view?usp=sharing
+
 ## ✨ Features
 - Email ingestion from CSV (simulates inbox)
 - Filtering by subject keywords (Support, Help, Query, Request)
